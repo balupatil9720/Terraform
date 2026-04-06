@@ -28,14 +28,10 @@ It includes practical implementations, mini-projects, and production-level conce
 * VPC & Security Groups
 
 ### 🚀 Advanced Level
-
-* Terraform Modules (Public + Custom)
-* Terraform Registry
+* Terraform Modules 
 * Resource Lifecycle & Dependencies
 * Workspaces
 * State Manipulation & Import
-* Terraform Cloud + GitHub Integration
-
 ---
 
 ## 🏗️ Projects Included
